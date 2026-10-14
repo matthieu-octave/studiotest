@@ -1,0 +1,6 @@
+{
+  "name": "Creative Developer Hub",
+  "description": "A multi-tool workstation featuring an AI-powered brainstorming sandbox, standard scratchpads, and a synthesized Web Audio focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
